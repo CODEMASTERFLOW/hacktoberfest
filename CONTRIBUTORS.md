@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kripal Singh]
+- Place: India,mumbai
+- Bio: Software Designer
+- Github: [CODEMASTERFLOW] (https://github.com/CODEMASTERFLOW)
